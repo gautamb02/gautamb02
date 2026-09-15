@@ -1,17 +1,17 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gautam%20Bhagat&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20AI%20Systems%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gautam%20Bhagat&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
 <br>
 
-<a href="https://linkedin.com/in/g-bhagat"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://gautambhagat.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://instagram.com/_gautam.in"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-<a href="mailto:gautambhagat02@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://gautamb02.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/igautambhagat"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://orcid.org/0009-0008-2943-7579"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>&nbsp;
+<a href="mailto:igautamb05@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=building+systems+that+observe%2C+reason%2C+and+act;from+LLM+agents+to+production+observability" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=architecting+backend+systems+for+AI+agents;RAG+%C2%B7+context+engineering+%C2%B7+distributed+systems" alt="Typing SVG" />
 
 </div>
 
@@ -19,42 +19,33 @@
 
 ## `> whoami`
 
-I build **AI-powered backend systems** and **full-stack applications**. My work sits at the intersection of **LLM agent engineering**, **cloud observability**, and **systems programming**.
+I'm a **backend and AI engineer** — I design the systems that let LLM agents reason reliably at scale: retrieval pipelines, context management, and the infrastructure underneath them.
 
-Currently deep in **agentic AI** — shipping tool-calling agents, DAG-based workflow engines, and observability pipelines that process metrics from Datadog, AWS CloudWatch, and Signoz at production scale.
+Currently at **NudgeBee**, building the backend for an AI-agent platform used for cloud debugging and SRE/Ops automation — multimodal agent support, long-conversation context management, and memory extraction.
 
 <br>
 
 ## `> work --professional`
 
-<table>
-<tr>
-<td width="80" align="center"><img src="https://img.shields.io/badge/94-merged%20PRs-8957e5?style=flat-square" /></td>
-<td>
-
-### NudgeBee — AI Observability Platform
-
-Built and shipped core LLM agent infrastructure for an AI-powered observability platform:
-
-</td>
-</tr>
-</table>
-
 ```
- Agent Architecture    Multi-agent systems: metrics agents (Datadog, AWS CloudWatch),
-                       log agents (Signoz), ticket agents, recommendation engines
+ NudgeBee                Backend & AI engineer on an open-source SRE copilot
+ SDE I · Nov 2025—        (Kubernetes / AWS / Azure / GCP). Architected multimodal
+ Present                  agent support, conversation-context management, and a
+                          memory-fact extraction pipeline for durable recall.
 
- Agentic Pipelines     ReAct-style tool-calling agents with wall-clock timeouts,
-                       dynamic tool caching, and multi-step reasoning chains
+ Lemma Technologies       Backend & GenAI engineer on an ad-tech platform. Designed
+ Dec 2024—Nov 2025        the Media Plan module end-to-end (versioning, approvals,
+                          ACL) and a GenAI pipeline generating ad creatives in
+                          under a minute.
 
- Benchmarking          Agent benchmark suites with integrated analyzer dashboards
-                       for measuring accuracy & performance at scale
+ Muks Robotics            AI engineer shipping production computer-vision systems —
+ Apr—Jul 2024             real-time face recognition and PPE-violation detection.
 
- Infrastructure        Deployment configs, feature flags, and agent rollout pipelines
-                       across nudgebee-infra
-
- White-labeling        Configurable AI assistant identity system for enterprise customers
+ DIBC                     Backend engineer building Django services for a
+ Jan—Jul 2022             cab-based ad platform.
 ```
+
+Full write-up with verified specifics → **[gautamb02.github.io](https://gautamb02.github.io)**
 
 <br>
 
@@ -64,13 +55,11 @@ Built and shipped core LLM agent infrastructure for an AI-powered observability 
 
 | Domain | Technologies |
 |:------|:------------|
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Backend** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **AI / ML** | ![LLM Agents](https://img.shields.io/badge/LLM%20Agents-412991?style=flat-square&logo=openai&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **Backend** | ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **AI / Agents** | ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=flat-square&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
 
 </div>
 
@@ -78,71 +67,23 @@ Built and shipped core LLM agent infrastructure for an AI-powered observability 
 
 ## `> ls projects/`
 
-<details>
-<summary><b>AI & Agent Systems</b> &nbsp;  — click to expand</summary>
-<br>
-
 | | Project | Stack | Description |
 |---|---------|-------|-------------|
 | <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | [**agentic-ai**](https://github.com/gautamb02/agentic-ai) | Go | Agentic AI runtime — tool-calling LLM agents with structured execution loops |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**dag_workflow**](https://github.com/gautamb02/dag_workflow) | Python, asyncio, MongoDB | Async DAG workflow engine with dependency resolution, auto-resume, and dynamic task generation |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**react-agent-huggingface**](https://github.com/gautamb02/react-agent-huggingface) | Python, Pydantic | Custom ReAct agent for HuggingFace with dynamic tool-calling and structured reasoning logs |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**mcpclient-api**](https://github.com/gautamb02/mcpclient-api) | FastAPI, Redis | MCP protocol chat backend with session management and Redis-backed conversation state |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**SynapseAI**](https://github.com/gautamb02/SynapseAI) | Python | AI system project |
-
-</details>
-
-<details>
-<summary><b>Full-Stack Applications</b> &nbsp;  — click to expand</summary>
-<br>
-
-| | Project | Stack | Description |
-|---|---------|-------|-------------|
-| <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | [**RoadRomeo**](https://roadromeo.vercel.app) | Next.js, Tailwind | Premium bike service platform — WhatsApp booking engine, glassmorphism UI, live trust indicators |
-| <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | [**Structify**](https://structify-swart.vercel.app) | Next.js, PostgreSQL | Full-stack app with complex PLpgSQL stored procedures |
-| <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | [**Expaily**](https://expaily.vercel.app) | Next.js, PostgreSQL | Expense management with 21K+ lines of PLpgSQL database logic |
-| <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | [**FreshWayz**](https://freshwayz.vercel.app) | Next.js, TypeScript | Full-stack Next.js application |
-| <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | [**Sportify**](https://isportify.vercel.app) | React, TypeScript | Sports news & live scores dashboard with personalized feeds |
-| <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | [**LearnEase**](https://github.com/gautamb02/LearnEase) | Node.js, EJS | Full LMS — course management, assessments, progress tracking, dashboards |
-| <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | [**TourTix**](https://tourtix-frontend.vercel.app) | React, Node.js | Tour ticketing platform with auth and booking system |
-
-</details>
-
-<details>
-<summary><b>Systems & Infrastructure</b> &nbsp;  — click to expand</summary>
-<br>
-
-| | Project | Stack | Description |
-|---|---------|-------|-------------|
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**dag_workflow**](https://github.com/gautamb02/dag_workflow) | Python, asyncio, MongoDB | Async DAG workflow engine with dependency resolution and auto-resume |
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**mcpclient-api**](https://github.com/gautamb02/mcpclient-api) | FastAPI, Redis | MCP protocol chat backend with session management |
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**react-agent-huggingface**](https://github.com/gautamb02/react-agent-huggingface) | Python, Pydantic | Custom ReAct agent with dynamic tool-calling and structured reasoning logs |
+| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**foganx-drone**](https://github.com/gautamb02/foganx-drone) | PyTorch, CNNs, RTSP | GAN-based dehazing pipeline integrated with a real-time drone feed |
 | <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | [**sso-service**](https://github.com/gautamb02/sso-service) | Go | Single Sign-On microservice built from scratch |
-| <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | [**notes-taking**](https://github.com/gautamb02/notes-taking) | Go, Docker | Containerized note-taking API service |
-| <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | [**social-api**](https://github.com/gautamb02/social-api) | Go | Social platform REST API |
-| <img src="https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | [**vscode-counter-extension**](https://github.com/gautamb02/vscode-counter-extension) | TypeScript | Custom VS Code extension |
 
-</details>
+Full project + publication list → **[gautamb02.github.io](https://gautamb02.github.io)**
 
-<details>
-<summary><b>Computer Vision & Drones</b> &nbsp;  — click to expand</summary>
 <br>
 
-| | Project | Stack | Description |
-|---|---------|-------|-------------|
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**PPE-Detection-YOLO**](https://github.com/gautamb02/PPE-Detection-Yolo-with-alarm) | Python, YOLO | Real-time PPE detection with automated alarm triggering |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**foganx-drone**](https://github.com/gautamb02/foganx-drone) | Python | Drone safeguard system — autonomous flight safety and control |
-| <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**DroneProgramming**](https://github.com/gautamb02/DroneProgramming) | Python | Drone flight programming and control systems |
+## `> cat publications.log`
 
-</details>
-
-<details>
-<summary><b>Mobile</b> &nbsp;  — click to expand</summary>
-<br>
-
-| | Project | Stack | Description |
-|---|---------|-------|-------------|
-| <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> | [**agro-bharat**](https://github.com/gautamb02/agro-bharat) | Flutter, Dart | Agriculture mobile application |
-| <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> | [**Social Fly**](https://github.com/gautamb02/Social_Fly_Android) | Java, Firebase | Real-time messaging app with video/audio calls via Jitsi Meet |
-
-</details>
+- **Generative Desmoking Algorithm for Enhancing Images in Low-Visibility Environments** — *Lecture Notes in Networks and Systems*, 2026 — [DOI](https://doi.org/10.1007/978-3-032-13803-3_17)
+- **A Survey of Proximity and Range Sensing Technologies for Reliable Distance Estimation** — *Smart Innovation, Systems and Technologies*, 2024 — [DOI](https://doi.org/10.1007/978-981-97-7094-6_2)
 
 <br>
 
@@ -174,12 +115,8 @@ Built and shipped core LLM agent infrastructure for an AI-powered observability 
 ---
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=gautamb02&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" />
 
-<br><br>
-
-*Building systems that think, observe, and act autonomously.*
+*Building the backend that AI agents run on.*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer)
 
