@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gautam%20Bhagat&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Gautam%20Bhagat&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Backend%20%2B%20AI%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn)
 
 <br>
 
