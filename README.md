@@ -19,9 +19,11 @@
 
 ## `> whoami`
 
-I'm a **backend and AI engineer** — I design the systems that let LLM agents reason reliably at scale: retrieval pipelines, context management, and the infrastructure underneath them.
-
-Currently at **NudgeBee**, building the backend for an AI-agent platform used for cloud debugging and SRE/Ops automation — multimodal agent support, long-conversation context management, and memory extraction.
+-   🧠 I architect **backend systems for AI agents** — retrieval pipelines, context management, and the infrastructure underneath them
+-   💼 Currently building agent infrastructure at **NudgeBee**
+-   🧪 Exploring agent runtimes and workflow engines in my own time — see `projects` below
+-   📄 2 peer-reviewed publications in computer vision & sensing
+-   🟢 Open to conversations about backend/AI roles and collaborations
 
 <br>
 
