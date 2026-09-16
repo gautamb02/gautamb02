@@ -87,31 +87,6 @@ Full project + publication list → **[gautamb02.github.io](https://gautamb02.gi
 
 <br>
 
-## `> cat stats.log`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gautamb02&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gautamb02&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-
-<br>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamb02&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-
-</div>
-
-<br>
-
-## `> graph activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamb02&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%"/>
-
-</div>
-
-<br>
-
 ---
 
 <div align="center">
